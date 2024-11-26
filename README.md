@@ -1,3 +1,4 @@
+<pre>
 # min-hobby-sida
 Simple, static onepage-website about a hobby or interest I like (Counter-Strike)
 
@@ -8,3 +9,4 @@ I learned to use &#60;abbr&#62; everywhere, which I usually don´t do.
 I learned how nested &#60;ul&#62; looks like.
 
 Otherwise, I didn´t learn anything new. It was just a repetition of things I already know.
+</pre>
