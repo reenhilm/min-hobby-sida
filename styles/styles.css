@@ -33,6 +33,18 @@ body {
     background-color:#D8E2F8;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+}
+
 dl {
     display: grid;
     grid-gap: 4px 16px;
