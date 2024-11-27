@@ -6,6 +6,7 @@
 * I learned about using tel: in an &#60;a&#62;
 * I learned to use &#60;abbr&#62; everywhere, which I usually don´t do.
 * I learned how nested &#60;ul&#62; looks like.
+* I used &#60;address&#62; element first time in a project
 
 ###### Otherwise, I didn´t learn anything new. It was just a repetition of things I already know.
 
