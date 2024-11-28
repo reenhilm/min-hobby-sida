@@ -1,3 +1,16 @@
+/* User agent reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+/* User agent end */
+
 html {
     font-size: 100%;
     line-height: 1.361665;
